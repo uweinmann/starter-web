@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+	Ursula Weinmann		office@uweinmann.de 
 
     <name> -- <role> -- <twitter>
 
